@@ -405,6 +405,8 @@
 			baseConfigurationReference = F13C173A1C1EFFF77D602F55 /* Pods-KurentoToolboxDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/KurentoToolboxDemo/KurentoToolboxDemo-Prefix.pch";
@@ -412,7 +414,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = it.telecomitalia.KurentoToolboxDemo;
 				PRODUCT_NAME = KurentoDemo;
-				PROVISIONING_PROFILE = "ced55313-15bb-428e-9f5f-424c58e981f5";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -421,6 +423,8 @@
 			baseConfigurationReference = 6D6934503747DF5C38C8CDD8 /* Pods-KurentoToolboxDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/KurentoToolboxDemo/KurentoToolboxDemo-Prefix.pch";
@@ -428,7 +432,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = it.telecomitalia.KurentoToolboxDemo;
 				PRODUCT_NAME = KurentoDemo;
-				PROVISIONING_PROFILE = "ced55313-15bb-428e-9f5f-424c58e981f5";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};

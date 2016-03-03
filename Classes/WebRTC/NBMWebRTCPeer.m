@@ -32,7 +32,8 @@
 #import "RTCAudioTrack.h"
 
 typedef void(^SdpOfferBlock)(NSString *sdpOffer, NBMPeerConnection *connection);
-static NSString *kDefaultSTUNServerUrl = @"stun:stun.l.google.com:19302";
+//static NSString *kDefaultSTUNServerUrl = @"stun:stun.l.google.com:19302";
+static NSString *kDefaultSTUNServerUrl = @"stun:stun.ideasip.com";
 
 @interface NBMWebRTCPeer () <RTCPeerConnectionDelegate, RTCSessionDescriptionDelegate, RTCMediaStreamTrackDelegate>
 
