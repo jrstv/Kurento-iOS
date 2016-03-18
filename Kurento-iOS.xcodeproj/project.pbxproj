@@ -124,7 +124,7 @@
 		4A133A4F1BE1204A0095B168 /* KurentoToolbox.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = KurentoToolbox.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		4A29E1711C5A0FD70068FEE5 /* NBMError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = NBMError.h; sourceTree = "<group>"; };
 		4A29E1721C5A0FD70068FEE5 /* NBMError.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = NBMError.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
-		4A29E1751C5A13D30068FEE5 /* WebRTC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = WebRTC.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		4A29E1751C5A13D30068FEE5 /* WebRTC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = WebRTC.h; sourceTree = "<group>"; };
 		4A29E1781C5A31AE0068FEE5 /* JSON-RPC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = "JSON-RPC.h"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		4A29E17A1C5A339D0068FEE5 /* Room.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Room.h; sourceTree = "<group>"; };
 		4A29E17C1C5A33E50068FEE5 /* Tree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Tree.h; path = Tree/Tree.h; sourceTree = "<group>"; };
