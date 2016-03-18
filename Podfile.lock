@@ -36,8 +36,8 @@ PODS:
     - CocoaLumberjack (~> 2.2.0)
   - KurentoToolbox/WebRTC (0.3.0):
     - KurentoToolbox/Utils
-    - libjingle_peerconnection (~> 10842.2.3)
-  - libjingle_peerconnection (10842.2.3)
+    - libjingle_peerconnection (~> 11177.2.0)
+  - libjingle_peerconnection (11177.2.0)
   - MBProgressHUD (0.9.2)
   - Reachability (3.2)
   - SBJson (4.0.2)
@@ -47,7 +47,7 @@ DEPENDENCIES:
   - CocoaLumberjack
   - DGActivityIndicatorView
   - KurentoToolbox (from `.`)
-  - libjingle_peerconnection (~> 10842.2.3)
+  - libjingle_peerconnection (~> 11177.2.0)
   - MBProgressHUD (~> 0.9.2)
   - Reachability (~> 3.2)
   - SBJson (~> 4.0.2)
@@ -60,8 +60,8 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   CocoaLumberjack: 17fe8581f84914d5d7e6360f7c70022b173c3ae0
   DGActivityIndicatorView: 52875b025a6ccf6a431a905285c12e2bb95eb559
-  KurentoToolbox: 79d50c06ed58550cb5bfdb48cbd5364356ea52e1
-  libjingle_peerconnection: 25b82d1d8de852367c9fd15b9699e547451e71b1
+  KurentoToolbox: 0f4887b8c8991b4b27e01e10cd6e152729eca3bb
+  libjingle_peerconnection: 3458f646ddd61f08a9f3a0c43fb01fff5c165eb8
   MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
   SBJson: c18691cc18375b14664ff0fec841f8c4faef1934
